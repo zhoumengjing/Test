@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="aop_log"
+  id="myeclipse.1456122184657"
+  context-root="/aop_log"
+  j2ee-spec="5.0"
+  archive="aop_log.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
